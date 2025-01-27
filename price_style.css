@@ -1,0 +1,37 @@
+body {
+    background-color: bisque;
+}
+
+div {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+hr {
+    background-color: black;
+    color: black;
+    height: 2px;
+}
+
+h1 {
+    text-align: right
+}
+
+h2 {
+    text-align: center
+}
+
+h3 {
+    text-align: center
+}
+
+li {
+    margin-left: 60pt;
+}
+
+a {
+    color: black;
+}
+
+.content {
+    background-color: azure;
+}
